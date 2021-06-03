@@ -40,8 +40,8 @@
             "resourceToOpen": "MainFlow",
             "helpLink": 
 			{
-                "text": "IBM Knowledge Center",
-                "link": "/com.ibm.etools.msgbroker.helphome.doc/help_home_msgbroker.htm"
+                "text": "IBM Documentation",
+           		"link": "https://www.ibm.com/docs/SSTTDS_12.0/com.ibm.etools.mft.doc/acesw_home.html"
             }
         },
         "pageDetails": 
@@ -86,10 +86,10 @@
 				"details": 
 				[
 					{
-						"title": "Knowledge Center link to ",
+						"title": "IBM Documentation link to ",
 						"description": "Interacting with databases by using the JavaCompute node",						
-						"link": "com.ibm.etools.mft.doc/ac30494_.htm",
-						"type": "help"
+						"link": "https://www.ibm.com/docs/SSTTDS_12.0/com.ibm.etools.mft.doc/ac30494_.htm",
+						"type": "web"
 					}
 				]
 			}
@@ -125,9 +125,10 @@
                     "details": 
 					[
                         {
-                            "title": "Knowledge Center link to ",
+                            "title": "IBM Documentation link to ",
                             "description": "Developing integration solutions by using applications",
-                            "link": "com.ibm.etools.mft.doc/bi12002_.htm"
+                            "link": "https://www.ibm.com/docs/SSTTDS_12.0/com.ibm.etools.mft.doc/bi12002_.htm",
+							"type": "web"
                         }
                     ]
                 },
@@ -244,14 +245,16 @@
                     "details": 
 					[
                         {
-                            "title": "Knowledge Center link to ",                        
+							"title": "IBM Documentation link to ",
 							"description": "Interacting with databases by using the JavaCompute node",						
-							"link": "com.ibm.etools.mft.doc/ac30494_.htm"													
+							"link": "https://www.ibm.com/docs/SSTTDS_12.0/com.ibm.etools.mft.doc/ac30494_.htm",
+							"type": "web"							
                         },
                         {
-                            "title": "Knowledge Center link to ",
+							"title": "IBM Documentation link to ",
                             "description": "Testing your message flow by using the Flow exerciser",
-                            "link": "com.ibm.etools.mft.doc/rt26110_.htm"
+                            "link": "https://www.ibm.com/docs/SSTTDS_12.0/com.ibm.etools.mft.doc/rt26110_.htm",
+							"type": "web"							
                         }
                     ]
                 },
